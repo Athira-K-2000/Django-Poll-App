@@ -1,0 +1,12 @@
+body {
+    background-color: #9eb5cb; 
+}
+
+
+
+.col-md-5 {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ced4da; 
+    border-radius: 10px;
+}
